@@ -21,20 +21,24 @@ class ApiTest extends TestCase
 
         Http::preventStrayRequests();
 
+        $apiKey = self::API_KEY;
+        $apiUrl = self::API_URL;
+
         Http::fake([
-            self::API_URL . '?api-key=' . self::API_KEY => $this->getResponse('no_parameters.json'),
-            self::API_URL . '?author=Martin&api-key=' . self::API_KEY   => $this->getResponse('with_author.json'),
-            self::API_URL . '?offset=40&api-key=' . self::API_KEY => $this->getResponse('offset.json'),
-            self::API_URL . '?offset=41&api-key=' . self::API_KEY => Http::response(null, 422),
-            self::API_URL . '?author=George%20RR%20Martin&title=A%20CLASH%20OF%20KINGS&api-key=' . self::API_KEY => $this->getResponse('author_and_title.json'),
-            self::API_URL . '?title=King&offset=40&api-key=' . self::API_KEY => $this->getResponse('title_and_offset.json'),
-            self::API_URL . '?isbn=0744080045&api-key=' . self::API_KEY => $this->getResponse('with_isbn.json'),
-            self::API_URL . '?isbn=9780446579933%3B0061374229&api-key=' . self::API_KEY => $this->getResponse('with_multiple_isbn.json'),
+            "$apiUrl?api-key=$apiKey" => $this->getResponse('no_parameters.json'),
+            "$apiUrl?author=Martin&api-key=$apiKey" => $this->getResponse('with_author.json'),
+            "$apiUrl?offset=40&api-key=$apiKey" => $this->getResponse('offset.json'),
+            "$apiUrl?offset=41&api-key=$apiKey" => Http::response(null, 422),
+            "$apiUrl?author=George%20RR%20Martin&title=A%20CLASH%20OF%20KINGS&api-key=$apiKey" => $this->getResponse('author_and_title.json'),
+            "$apiUrl?title=King&offset=40&api-key=$apiKey" => $this->getResponse('title_and_offset.json'),
+            "$apiUrl?isbn=0744080045&api-key=$apiKey" => $this->getResponse('with_isbn.json'),
+            "$apiUrl?isbn=9780446579933%3B0061374229&api-key=$apiKey" => $this->getResponse('with_multiple_isbn.json'),
         ]);
 
+
         config([
-            'env.bestSellers.apiUrl' => self::API_URL,
-            'env.bestSellers.apiKey' => self::API_KEY
+            'env.bestSellers.apiUrl' => $apiUrl,
+            'env.bestSellers.apiKey' => $apiKey
         ]);
     }
 
