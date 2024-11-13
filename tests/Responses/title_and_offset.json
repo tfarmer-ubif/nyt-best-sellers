@@ -1,0 +1,781 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+    "num_results": 742,
+    "results": [
+        {
+            "title": "BAKING WITH DORIE",
+            "description": "",
+            "contributor": "by Dorie Greenspan",
+            "author": "Dorie Greenspan",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Mariner",
+            "isbns": [
+                {
+                    "isbn10": "035822358X",
+                    "isbn13": "9780358223580"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "BAKING WITH THE CAKE BOSS",
+            "description": "Recipes and techniques from the star of the TLC show.",
+            "contributor": "by Buddy Valastro",
+            "author": "Buddy Valastro",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Free Press",
+            "isbns": [
+                {
+                    "isbn10": "143918352X",
+                    "isbn13": "9781439183526"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "BAKING YESTERYEAR",
+            "description": "",
+            "contributor": "by B. Dylan Hollis",
+            "author": "B. Dylan Hollis",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "DK",
+            "isbns": [
+                {
+                    "isbn10": "0744080045",
+                    "isbn13": "9780744080049"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 6,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2024-01-07",
+                    "bestsellers_date": "2023-12-23",
+                    "weeks_on_list": 15,
+                    "rank_last_week": 4,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 4,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-12-31",
+                    "bestsellers_date": "2023-12-16",
+                    "weeks_on_list": 14,
+                    "rank_last_week": 3,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 3,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-12-24",
+                    "bestsellers_date": "2023-12-09",
+                    "weeks_on_list": 13,
+                    "rank_last_week": 8,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 8,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-12-17",
+                    "bestsellers_date": "2023-12-02",
+                    "weeks_on_list": 12,
+                    "rank_last_week": 6,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 6,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-12-10",
+                    "bestsellers_date": "2023-11-25",
+                    "weeks_on_list": 11,
+                    "rank_last_week": 9,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 9,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-12-03",
+                    "bestsellers_date": "2023-11-18",
+                    "weeks_on_list": 10,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 8,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-10-15",
+                    "bestsellers_date": "2023-09-30",
+                    "weeks_on_list": 9,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 10,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-10-01",
+                    "bestsellers_date": "2023-09-16",
+                    "weeks_on_list": 8,
+                    "rank_last_week": 5,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 5,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-09-24",
+                    "bestsellers_date": "2023-09-09",
+                    "weeks_on_list": 7,
+                    "rank_last_week": 3,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 3,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-09-17",
+                    "bestsellers_date": "2023-09-02",
+                    "weeks_on_list": 6,
+                    "rank_last_week": 4,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 4,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-09-10",
+                    "bestsellers_date": "2023-08-26",
+                    "weeks_on_list": 5,
+                    "rank_last_week": 3,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 3,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-09-03",
+                    "bestsellers_date": "2023-08-19",
+                    "weeks_on_list": 4,
+                    "rank_last_week": 2,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 2,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-08-27",
+                    "bestsellers_date": "2023-08-12",
+                    "weeks_on_list": 3,
+                    "rank_last_week": 2,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 2,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-08-20",
+                    "bestsellers_date": "2023-08-05",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 1,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 1,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-08-13",
+                    "bestsellers_date": "2023-07-29",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "BASSOON KING",
+            "description": "The comic actor from \"The Office\" shares his coming of age stories and early television career touchpoints.",
+            "contributor": "by Rainn Wilson",
+            "author": "Rainn Wilson",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Dutton",
+            "isbns": [
+                {
+                    "isbn10": "0525954538",
+                    "isbn13": "9780525954538"
+                },
+                {
+                    "isbn10": "1611763371",
+                    "isbn13": "9781611763379"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "BATMAN: THROUGH THE LOOKING GLASS",
+            "description": "This original graphic novel tells the tale of the first meeting between the Dark Knight and the villainous Mad Hatter.",
+            "contributor": "by Bruce Jones and Sam Keith",
+            "author": "Bruce Jones and Sam Keith",
+            "contributor_note": "",
+            "price": "22.99",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [
+                {
+                    "isbn10": "1401225535",
+                    "isbn13": "9781401225537"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "Battle of Wits: The Complete Story of Codebreaking in World War II",
+            "description": null,
+            "contributor": null,
+            "author": "Stephen Budiansky",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "0743217349",
+                    "isbn13": "9780743217347"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2000/10/22/books/books-in-brief-nonfiction-620912.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "Beasts of Eden: Walking Whales, Dawn Horses, and Other Enigmas of Mammal Evolution",
+            "description": null,
+            "contributor": null,
+            "author": "David Rains Wallace",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "0520246845",
+                    "isbn13": "9780520246843"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2004/06/13/books/the-evolutionary-war.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "BEAUTY'S KINGDOM",
+            "description": "Twenty years after the end of the Beauty trilogy, Queen Beauty and King Laurent return to the kingdom of Bellavalten as erotic reformers; by Anne Rice, writing pseudonymously.",
+            "contributor": "by A.N. Roquelaure",
+            "author": "AN Roquelaure",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Viking",
+            "isbns": [
+                {
+                    "isbn10": "0525427996",
+                    "isbn13": "9780525427995"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "Becoming Eichmann: Rethinking the Life, Crimes, and Trial of a \"Desk Murderer\"",
+            "description": null,
+            "contributor": null,
+            "author": "David Cesarani",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "0306815397",
+                    "isbn13": "9780306815393"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2006/05/14/books/review/14gewen.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "Behind Closed Doors: Wheeling and Dealing in the Banking World",
+            "description": null,
+            "contributor": null,
+            "author": "Hope Lampert",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "0689117477",
+                    "isbn13": "9780689117473"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1986/10/26/books/books-business-big-bucks-at-high-velocity.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "Between My Father and the King: New and Uncollected Stories",
+            "description": null,
+            "contributor": null,
+            "author": "Janet Frame",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "1619021692",
+                    "isbn13": "9781619021693"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2013/05/26/books/review/between-my-father-and-the-king-by-janet-frame.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "BETWEEN TWO KINGDOMS",
+            "description": "The writer of the New York Times column “Life, Interrupted” chronicles her fight with cancer and an impactful road trip.",
+            "contributor": "by Suleika Jaouad",
+            "author": "Suleika Jaouad",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Random House",
+            "isbns": [
+                {
+                    "isbn10": "0399588582",
+                    "isbn13": "9780399588587"
+                },
+                {
+                    "isbn10": "0399588604",
+                    "isbn13": "9780399588600"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "0399588604",
+                    "primary_isbn13": "9780399588600",
+                    "rank": 15,
+                    "list_name": "Paperback Nonfiction",
+                    "display_name": "Paperback Nonfiction",
+                    "published_date": "2023-04-02",
+                    "bestsellers_date": "2023-03-18",
+                    "weeks_on_list": 19,
+                    "rank_last_week": 14,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0399588604",
+                    "primary_isbn13": "9780399588600",
+                    "rank": 14,
+                    "list_name": "Paperback Nonfiction",
+                    "display_name": "Paperback Nonfiction",
+                    "published_date": "2023-03-26",
+                    "bestsellers_date": "2023-03-11",
+                    "weeks_on_list": 18,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0399588604",
+                    "primary_isbn13": "9780399588600",
+                    "rank": 13,
+                    "list_name": "Paperback Nonfiction",
+                    "display_name": "Paperback Nonfiction",
+                    "published_date": "2023-02-19",
+                    "bestsellers_date": "2023-02-04",
+                    "weeks_on_list": 17,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0399588604",
+                    "primary_isbn13": "9780399588600",
+                    "rank": 15,
+                    "list_name": "Paperback Nonfiction",
+                    "display_name": "Paperback Nonfiction",
+                    "published_date": "2022-10-16",
+                    "bestsellers_date": "2022-10-01",
+                    "weeks_on_list": 16,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0399588604",
+                    "primary_isbn13": "9780399588600",
+                    "rank": 15,
+                    "list_name": "Paperback Nonfiction",
+                    "display_name": "Paperback Nonfiction",
+                    "published_date": "2022-09-04",
+                    "bestsellers_date": "2022-08-20",
+                    "weeks_on_list": 15,
+                    "rank_last_week": 15,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "Beyond the Narrow Gate: The Journey of Four Chinese Women from the Middle Kingdom to Middle America",
+            "description": null,
+            "contributor": null,
+            "author": "Leslie Chang",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "0525942572",
+                    "isbn13": "9780525942573"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1999/06/20/books/books-in-brief-nonfiction-116980.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "Big Bosoms and Square Jaws: The Biography of Russ Meyer, King of the Sex Film",
+            "description": null,
+            "contributor": null,
+            "author": "Jimmy McDonough",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "0307338444",
+                    "isbn13": "9780307338440"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "https://www.nytimes.com/2005/07/24/books/review/24POWERSL.html",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "Bloomsbury Pie: The Making of the Bloomsbury Boom",
+            "description": null,
+            "contributor": null,
+            "author": "Regina Marler",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "0805044167",
+                    "isbn13": "9780805044164"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1997/09/21/books/books-in-brief-nonfiction-071498.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "Blue Thunder: How the Mafia Owned and Finally Murdered Cigarette Boat King Donald Aronow",
+            "description": null,
+            "contributor": null,
+            "author": "Charlene Mitchell",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "0671663216",
+                    "isbn13": "9780671663216"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1990/11/25/books/the-smoking-boat.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "Booking Passage: We Irish and Americans",
+            "description": null,
+            "contributor": null,
+            "author": "Thomas Lynch",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "0393328570",
+                    "isbn13": "9780393328578"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2005/06/12/books/review/12ONEILLL.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "Boondocking",
+            "description": null,
+            "contributor": null,
+            "author": "Tricia Bauer",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "0312198396",
+                    "isbn13": "9780312198398"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1998/01/11/books/books-in-brief-fiction-892300.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "BORN TO BE KING",
+            "description": "",
+            "contributor": "by Catherine Mayer",
+            "author": "Catherine Mayer",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Henry Holt & Company",
+            "isbns": [
+                {
+                    "isbn10": "1627794387",
+                    "isbn13": "9781627794381"
+                },
+                {
+                    "isbn10": "1627794395",
+                    "isbn13": "9781627794398"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "Boswell's Presumptuous Task: The Making of the Life of Dr. Johnson",
+            "description": null,
+            "contributor": null,
+            "author": "Adam Sisman",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "0142001759",
+                    "isbn13": "9780142001752"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2001/08/19/books/the-first-real-biographer.html",
+                    "article_chapter_link": null
+                }
+            ]
+        }
+    ]
+}

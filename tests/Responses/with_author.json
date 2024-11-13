@@ -1,0 +1,888 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+    "num_results": 253,
+    "results": [
+        {
+            "title": "A CLASH OF KINGS",
+            "description": "The second book in the Song of Ice and Fire series. Read by Roy Dotrice. 37 hours, 12 minutes unabridged.",
+            "contributor": "by George R.R. Martin",
+            "author": "George RR Martin",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Random House Audio",
+            "isbns": [
+                {
+                    "isbn10": "0553579908",
+                    "isbn13": "9780553579901"
+                },
+                {
+                    "isbn10": "0553897853",
+                    "isbn13": "9780553897852"
+                },
+                {
+                    "isbn10": "0553381695",
+                    "isbn13": "9780553381696"
+                },
+                {
+                    "isbn10": "0553108034",
+                    "isbn13": "9780553108033"
+                },
+                {
+                    "isbn10": "0307987647",
+                    "isbn13": "9780307987648"
+                },
+                {
+                    "isbn10": "0345535413",
+                    "isbn13": "9780345535412"
+                },
+                {
+                    "isbn10": "0345535421",
+                    "isbn13": "9780345535429"
+                },
+                {
+                    "isbn10": "0007465823",
+                    "isbn13": "9780007465828"
+                },
+                {
+                    "isbn10": "0449011100",
+                    "isbn13": "9780449011102"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9781415902004",
+                    "rank": 6,
+                    "list_name": "Audio Fiction",
+                    "display_name": "Audio Fiction",
+                    "published_date": "2019-07-14",
+                    "bestsellers_date": "2019-06-29",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 4,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9781415902004",
+                    "rank": 4,
+                    "list_name": "Audio Fiction",
+                    "display_name": "Audio Fiction",
+                    "published_date": "2019-06-16",
+                    "bestsellers_date": "2019-06-01",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 10,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9781415902004",
+                    "rank": 10,
+                    "list_name": "Audio Fiction",
+                    "display_name": "Audio Fiction",
+                    "published_date": "2019-05-12",
+                    "bestsellers_date": "2019-04-27",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "A DANCE WITH DRAGONS",
+            "description": "After a colossal battle, the Seven Kingdoms face new threats.",
+            "contributor": "by George R. R. Martin",
+            "author": "George R R Martin",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Bantam",
+            "isbns": [
+                {
+                    "isbn10": "0553801473",
+                    "isbn13": "9780553801477"
+                },
+                {
+                    "isbn10": "0553905651",
+                    "isbn13": "9780553905656"
+                },
+                {
+                    "isbn10": "0739375970",
+                    "isbn13": "9780739375976"
+                },
+                {
+                    "isbn10": "055338595X",
+                    "isbn13": "9780553385953"
+                },
+                {
+                    "isbn10": "0553582011",
+                    "isbn13": "9780553582017"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "A Dog Called Perth: The True Story of a Beagle",
+            "description": null,
+            "contributor": null,
+            "author": "Peter Martin",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "155970652X",
+                    "isbn13": "9781559706520"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2002/01/27/books/books-in-brief-nonfiction-179060.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "A FEAST FOR CROWS",
+            "description": "The fourth book in the Song of Ice and Fire series. Read by Roy Dotrice. 33 hours, 51 minutes unabridged.",
+            "contributor": "by George R.R. Martin",
+            "author": "George RR Martin",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Random House Audio",
+            "isbns": [
+                {
+                    "isbn10": "055358202X",
+                    "isbn13": "9780553582024"
+                },
+                {
+                    "isbn10": "0553900323",
+                    "isbn13": "9780553900323"
+                },
+                {
+                    "isbn10": "0553582038",
+                    "isbn13": "9780553582031"
+                },
+                {
+                    "isbn10": "0553801503",
+                    "isbn13": "9780553801507"
+                },
+                {
+                    "isbn10": "0553390562",
+                    "isbn13": "9780553390568"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9780449011881",
+                    "rank": 13,
+                    "list_name": "Audio Fiction",
+                    "display_name": "Audio Fiction",
+                    "published_date": "2019-06-16",
+                    "bestsellers_date": "2019-06-01",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "A GAME OF THRONES",
+            "description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering.",
+            "contributor": "by George R.R. Martin",
+            "author": "George RR Martin",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Bantam",
+            "isbns": [
+                {
+                    "isbn10": "0553573403",
+                    "isbn13": "9780553573404"
+                },
+                {
+                    "isbn10": "0553386794",
+                    "isbn13": "9780553386790"
+                },
+                {
+                    "isbn10": "0553381687",
+                    "isbn13": "9780553381689"
+                },
+                {
+                    "isbn10": "0553593714",
+                    "isbn13": "9780553593716"
+                },
+                {
+                    "isbn10": "0553897845",
+                    "isbn13": "9780553897845"
+                },
+                {
+                    "isbn10": "0553103547",
+                    "isbn13": "9780553103540"
+                },
+                {
+                    "isbn10": "044042321X",
+                    "isbn13": "9780440423218"
+                },
+                {
+                    "isbn10": "0553588486",
+                    "isbn13": "9780553588484"
+                },
+                {
+                    "isbn10": "0345535537",
+                    "isbn13": "9780345535535"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "0553897845",
+                    "primary_isbn13": "9780553897845",
+                    "rank": 4,
+                    "list_name": "Combined Print and E-Book Fiction",
+                    "display_name": "Combined Print & E-Book Fiction",
+                    "published_date": "2019-06-16",
+                    "bestsellers_date": "2019-06-01",
+                    "weeks_on_list": 58,
+                    "rank_last_week": 2,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0553381687",
+                    "primary_isbn13": "9780553381689",
+                    "rank": 14,
+                    "list_name": "Trade Fiction Paperback",
+                    "display_name": "Paperback Trade Fiction",
+                    "published_date": "2019-06-16",
+                    "bestsellers_date": "2019-06-01",
+                    "weeks_on_list": 69,
+                    "rank_last_week": 8,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0553381687",
+                    "primary_isbn13": "9780553381689",
+                    "rank": 8,
+                    "list_name": "Trade Fiction Paperback",
+                    "display_name": "Paperback Trade Fiction",
+                    "published_date": "2019-06-09",
+                    "bestsellers_date": "2019-05-25",
+                    "weeks_on_list": 68,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0553897845",
+                    "primary_isbn13": "9780553897845",
+                    "rank": 2,
+                    "list_name": "Combined Print and E-Book Fiction",
+                    "display_name": "Combined Print & E-Book Fiction",
+                    "published_date": "2019-06-09",
+                    "bestsellers_date": "2019-05-25",
+                    "weeks_on_list": 57,
+                    "rank_last_week": 7,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0553897845",
+                    "primary_isbn13": "9780553897845",
+                    "rank": 7,
+                    "list_name": "Combined Print and E-Book Fiction",
+                    "display_name": "Combined Print & E-Book Fiction",
+                    "published_date": "2019-06-02",
+                    "bestsellers_date": "2019-05-18",
+                    "weeks_on_list": 56,
+                    "rank_last_week": 12,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0553897845",
+                    "primary_isbn13": "9780553897845",
+                    "rank": 12,
+                    "list_name": "Combined Print and E-Book Fiction",
+                    "display_name": "Combined Print & E-Book Fiction",
+                    "published_date": "2019-05-26",
+                    "bestsellers_date": "2019-05-11",
+                    "weeks_on_list": 55,
+                    "rank_last_week": 8,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0553897845",
+                    "primary_isbn13": "9780553897845",
+                    "rank": 8,
+                    "list_name": "Combined Print and E-Book Fiction",
+                    "display_name": "Combined Print & E-Book Fiction",
+                    "published_date": "2019-05-19",
+                    "bestsellers_date": "2019-05-04",
+                    "weeks_on_list": 54,
+                    "rank_last_week": 9,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0553897845",
+                    "primary_isbn13": "9780553897845",
+                    "rank": 9,
+                    "list_name": "Combined Print and E-Book Fiction",
+                    "display_name": "Combined Print & E-Book Fiction",
+                    "published_date": "2019-05-12",
+                    "bestsellers_date": "2019-04-27",
+                    "weeks_on_list": 53,
+                    "rank_last_week": 5,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": "https://www.nytimes.com/2011/04/10/arts/television/game-of-thrones-on-hbo-from-george-r-r-martin-novels.html"
+                }
+            ]
+        },
+        {
+            "title": "A GAME OF THRONES",
+            "description": "In the frozen wastes to the north of Winterfell, sinister and supernatural forces are mustering. Read by Roy Dotrice. 33 hours, 46 minutes unabridged.",
+            "contributor": "by George R.R. Martin",
+            "author": "George RR Martin",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Random House Audio",
+            "isbns": [
+                {
+                    "isbn10": "0307913090",
+                    "isbn13": "9780307913098"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9781415900642",
+                    "rank": 7,
+                    "list_name": "Audio Fiction",
+                    "display_name": "Audio Fiction",
+                    "published_date": "2019-07-14",
+                    "bestsellers_date": "2019-06-29",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 2,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9781415900642",
+                    "rank": 2,
+                    "list_name": "Audio Fiction",
+                    "display_name": "Audio Fiction",
+                    "published_date": "2019-06-16",
+                    "bestsellers_date": "2019-06-01",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 3,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9781415900642",
+                    "rank": 3,
+                    "list_name": "Audio Fiction",
+                    "display_name": "Audio Fiction",
+                    "published_date": "2019-05-12",
+                    "bestsellers_date": "2019-04-27",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 7,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "A GAME OF THRONES: FIVE-BOOK SET",
+            "description": "The collected Song of Ice and Fire series.",
+            "contributor": "by George R. R. Martin",
+            "author": "George R R Martin",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Bantam",
+            "isbns": [],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "A History of the Twentieth Century: Volume 2, 1933-1951",
+            "description": null,
+            "contributor": null,
+            "author": "Martin Gilbert",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "0380713942",
+                    "isbn13": "9780380713943"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1999/02/21/books/books-in-brief-nonfiction-311405.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "A KNIGHT OF THE SEVEN KINGDOMS",
+            "description": "A collection of three official prequels to “A Song of Ice and Fire.”",
+            "contributor": "by George R. R. Martin",
+            "author": "George R R Martin",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Bantam",
+            "isbns": [
+                {
+                    "isbn10": "0345533488",
+                    "isbn13": "9780345533487"
+                },
+                {
+                    "isbn10": "0345539117",
+                    "isbn13": "9780345539113"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "A Life of James Boswell",
+            "description": null,
+            "contributor": null,
+            "author": "Mr. Peter Martin",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "0300093128",
+                    "isbn13": "9780300093124"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2001/01/07/books/boswell-s-boswell.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "A SONG OF ICE AND FIRE",
+            "description": "A set that includes the first four volumes of Martin's epic fantasy series.",
+            "contributor": "by George R. R. Martin",
+            "author": "George R R Martin",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Random House Publishing",
+            "isbns": [
+                {
+                    "isbn10": "0345529065",
+                    "isbn13": "9780345529060"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "A STORM OF SWORDS",
+            "description": "The third book in the Song of Ice and Fire series. Read by Roy Dotrice. 47 hours, 34 minutes unabridged.",
+            "contributor": "by George R.R. Martin",
+            "author": "George RR Martin",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Random House Audio",
+            "isbns": [
+                {
+                    "isbn10": "055357342X",
+                    "isbn13": "9780553573428"
+                },
+                {
+                    "isbn10": "055389787X",
+                    "isbn13": "9780553897876"
+                },
+                {
+                    "isbn10": "0553381709",
+                    "isbn13": "9780553381702"
+                },
+                {
+                    "isbn10": "0553106635",
+                    "isbn13": "9780553106633"
+                },
+                {
+                    "isbn10": "034554398X",
+                    "isbn13": "9780345543981"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9780739308738",
+                    "rank": 12,
+                    "list_name": "Audio Fiction",
+                    "display_name": "Audio Fiction",
+                    "published_date": "2019-07-14",
+                    "bestsellers_date": "2019-06-29",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 6,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9780739308738",
+                    "rank": 6,
+                    "list_name": "Audio Fiction",
+                    "display_name": "Audio Fiction",
+                    "published_date": "2019-06-16",
+                    "bestsellers_date": "2019-06-01",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 15,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9780739308738",
+                    "rank": 15,
+                    "list_name": "Audio Fiction",
+                    "display_name": "Audio Fiction",
+                    "published_date": "2019-05-12",
+                    "bestsellers_date": "2019-04-27",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "A WEALTH OF PIGEONS",
+            "description": "The multi-award winning comedian teams up with the New Yorker cartoonist for this collection of humorous cartoons and comic strips.",
+            "contributor": "by Steve Martin and Harry Bliss",
+            "author": "Steve Martin and Harry Bliss",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Celadon",
+            "isbns": [
+                {
+                    "isbn10": "1250262895",
+                    "isbn13": "9781250262899"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1250262895",
+                    "primary_isbn13": "9781250262899",
+                    "rank": 2,
+                    "list_name": "Graphic Books and Manga",
+                    "display_name": "Graphic Books and Manga",
+                    "published_date": "2021-01-17",
+                    "bestsellers_date": "2021-01-02",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 1,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1250262895",
+                    "primary_isbn13": "9781250262899",
+                    "rank": 1,
+                    "list_name": "Graphic Books and Manga",
+                    "display_name": "Graphic Books and Manga",
+                    "published_date": "2020-12-13",
+                    "bestsellers_date": "2020-11-28",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "AGAINST THE EDGE",
+            "description": "Ben Slocum, a former member of the Navy SEALs, and Claire Chastain, a social worker, band together to track down his abducted son.",
+            "contributor": "by Kat Martin",
+            "author": "Kat Martin",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Harlequin Mira",
+            "isbns": [
+                {
+                    "isbn10": "077831443X",
+                    "isbn13": "9780778314431"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "AGAINST THE FIRE",
+            "description": "Gabriel Raines can’t be sure just who’s setting the fires in his new real estate development.",
+            "contributor": "by Kat Martin",
+            "author": "Kat Martin",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Mira",
+            "isbns": [
+                {
+                    "isbn10": "0778329305",
+                    "isbn13": "9780778329305"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "AGAINST THE LAW",
+            "description": "Devlin Raines, the former Army Ranger from Wind Canyon, is “mostly retired” as a P.I., but a beautiful woman lures him back into the game.",
+            "contributor": "by Kat Martin",
+            "author": "Kat Martin",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Mira",
+            "isbns": [
+                {
+                    "isbn10": "0778329402",
+                    "isbn13": "9780778329404"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "AGAINST THE MARK",
+            "description": "A woman hires a provocative and handsome private investigator to help her prove that her estranged father's death was no accident.",
+            "contributor": "by Kat Martin",
+            "author": "Kat Martin",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Harlequin Mira",
+            "isbns": [
+                {
+                    "isbn10": "0778314677",
+                    "isbn13": "9780778314677"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "AGAINST THE NIGHT",
+            "description": "An exotic dancer searching for her missing sister enlists the help of a former Army Ranger on the trail of an elusive drug lord.",
+            "contributor": "by Kat Martin",
+            "author": "Kat Martin",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Mira",
+            "isbns": [
+                {
+                    "isbn10": "0778313190",
+                    "isbn13": "9780778313199"
+                },
+                {
+                    "isbn10": "1459222784",
+                    "isbn13": "9781459222786"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "AGAINST THE ODDS",
+            "description": "",
+            "contributor": "by Kat Martin",
+            "author": "Kat Martin",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Harlequin Mira",
+            "isbns": [
+                {
+                    "isbn10": "0778314227",
+                    "isbn13": "9780778314226"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "AGAINST THE SKY",
+            "description": "After a night of passion in Las Vegas, Detective Nick Brodie invites a woman to Alaska, never guessing the tangle of murder and kidnapping about to engulf them both.",
+            "contributor": "by Kat Martin",
+            "author": "Kat Martin",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Zebra/Kensington",
+            "isbns": [
+                {
+                    "isbn10": "1420133845",
+                    "isbn13": "9781420133844"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        }
+    ]
+}

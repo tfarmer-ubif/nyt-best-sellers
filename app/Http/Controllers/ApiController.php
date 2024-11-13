@@ -23,8 +23,8 @@ class ApiController extends Controller
 
         $response = Http::acceptJson()
             ->get(config('env.bestSellers.apiUrl'), [
+                ...$filters,
                 'api-key' => config('env.bestSellers.apiKey'),
-                ...$filters
             ]);
 
         return response()->json($response->json());

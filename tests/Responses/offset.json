@@ -1,0 +1,826 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+    "num_results": 36464,
+    "results": [
+        {
+            "title": "100 DEADLY SKILLS",
+            "description": "The SEAL Operative's guide to eluding pursuit, capture and all manner of unseen danger.",
+            "contributor": "by Clint Emerson",
+            "author": "Clint Emerson",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Touchstone",
+            "isbns": [
+                {
+                    "isbn10": "1476796068",
+                    "isbn13": "9781476796062"
+                },
+                {
+                    "isbn10": "147679605X",
+                    "isbn13": "9781476796055"
+                },
+                {
+                    "isbn10": "1501143905",
+                    "isbn13": "9781501143908"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "147679605X",
+                    "primary_isbn13": "9781476796055",
+                    "rank": 2,
+                    "list_name": "Espionage",
+                    "display_name": "Espionage",
+                    "published_date": "2016-11-13",
+                    "bestsellers_date": "2016-10-29",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "147679605X",
+                    "primary_isbn13": "9781476796055",
+                    "rank": 5,
+                    "list_name": "Espionage",
+                    "display_name": "Espionage",
+                    "published_date": "2016-10-09",
+                    "bestsellers_date": "2016-09-24",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "147679605X",
+                    "primary_isbn13": "9781476796055",
+                    "rank": 2,
+                    "list_name": "Espionage",
+                    "display_name": "Espionage",
+                    "published_date": "2016-09-11",
+                    "bestsellers_date": "2016-08-27",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "147679605X",
+                    "primary_isbn13": "9781476796055",
+                    "rank": 1,
+                    "list_name": "Espionage",
+                    "display_name": "Espionage",
+                    "published_date": "2016-08-14",
+                    "bestsellers_date": "2016-07-30",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "147679605X",
+                    "primary_isbn13": "9781476796055",
+                    "rank": 2,
+                    "list_name": "Espionage",
+                    "display_name": "Espionage",
+                    "published_date": "2016-07-10",
+                    "bestsellers_date": "2016-06-25",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "147679605X",
+                    "primary_isbn13": "9781476796055",
+                    "rank": 2,
+                    "list_name": "Espionage",
+                    "display_name": "Espionage",
+                    "published_date": "2016-06-12",
+                    "bestsellers_date": "2016-05-28",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "147679605X",
+                    "primary_isbn13": "9781476796055",
+                    "rank": 1,
+                    "list_name": "Espionage",
+                    "display_name": "Espionage",
+                    "published_date": "2016-05-15",
+                    "bestsellers_date": "2016-04-30",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "147679605X",
+                    "primary_isbn13": "9781476796055",
+                    "rank": 3,
+                    "list_name": "Espionage",
+                    "display_name": "Espionage",
+                    "published_date": "2016-04-10",
+                    "bestsellers_date": "2016-03-26",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "100 People Who Are Screwing Up America (And Al Franken Is #37)",
+            "description": null,
+            "contributor": null,
+            "author": "Bernard Goldberg",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "0060761288",
+                    "isbn13": "9780060761288"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2005/08/28/books/review/28WILLIAM.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "100 PLACES IN FRANCE EVERY WOMAN SHOULD GO",
+            "description": "Essays on where and why to go to France.",
+            "contributor": "Marcia DeSanctis",
+            "author": "Marcia DeSanctis",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Travelers' Tales/Solas House",
+            "isbns": [
+                {
+                    "isbn10": "1609520823",
+                    "isbn13": "9781609520823"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "100 RECIPES EVERY WOMAN SHOULD KNOW",
+            "description": "",
+            "contributor": "by Cindi Leive and  the Editors of Glamour",
+            "author": "Cindi Leive and  the Editors of Glamour",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Hyperion",
+            "isbns": [
+                {
+                    "isbn10": "1401324061",
+                    "isbn13": "9781401324063"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "100 YARDS OF GLORY",
+            "description": "",
+            "contributor": "by Joe Garner and Bob Costas",
+            "author": "Joe Garner and Bob Costas",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Houghton Mifflin Harcourt",
+            "isbns": [
+                {
+                    "isbn10": "0547547986",
+                    "isbn13": "9780547547985"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2011/12/04/books/review/the-nfls-highlight-reel.html",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "1000 DOT-TO-DOT: CITIES",
+            "description": "A graphic designer known for his 6,239 dot version of the Mona Lisa offers twenty exotic locations for adults to complete as line art.",
+            "contributor": "by Thomas Pavitte",
+            "author": "Thomas Pavitte",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Thunder Bay",
+            "isbns": [
+                {
+                    "isbn10": "1626860661",
+                    "isbn13": "9781626860667"
+                },
+                {
+                    "isbn10": "1626860858",
+                    "isbn13": "9781626860858"
+                },
+                {
+                    "isbn10": "1626860653",
+                    "isbn13": "9781626860650"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "101 ARTISTS TO LISTEN TO BEFORE YOU DIE",
+            "description": "In this illustrated diary, the author catalogs his favorite musicians, like Bach, Nirvana and Daft Punk.",
+            "contributor": "by Ricardo Cavolo",
+            "author": "Ricardo Cavolo",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Nobrow Press",
+            "isbns": [
+                {
+                    "isbn10": "1910620009",
+                    "isbn13": "9781910620007"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "101 DOG TRICKS",
+            "description": "A dog trainer shares advice and activities to engage, challenge and bond with your dog.",
+            "contributor": "by Kyra Sundance and Chalcy",
+            "author": "Kyra Sundance and Chalcy",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Quayside",
+            "isbns": [
+                {
+                    "isbn10": "1592533256",
+                    "isbn13": "9781592533251"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "101 Reykjavik: A Novel",
+            "description": null,
+            "contributor": null,
+            "author": "Hallgrimur Helgason",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "0743225147",
+                    "isbn13": "9780743225144"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2003/04/27/books/arctic-slackers.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "101 TWO-LETTER WORDS",
+            "description": "A celebration of the 101 two-letter words allowed in Scrabble.",
+            "contributor": "by Stephin Merritt; illustrated by Roz Chast",
+            "author": "Stephin Merritt;",
+            "contributor_note": "illustrated by Roz Chast",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Norton",
+            "isbns": [
+                {
+                    "isbn10": "0393240193",
+                    "isbn13": "9780393240191"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "102 MINUTES",
+            "description": "Two journalists describe people's struggle to survive inside the World Trade Center on Sept. 11.",
+            "contributor": "by Jim Dwyer and Kevin Flynn",
+            "author": "Jim Dwyer and Kevin Flynn",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Holt",
+            "isbns": [],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "1022 EVERGREEN PLACE",
+            "description": "A growing romance in a small town; the 10th Cedar Grove novel.",
+            "contributor": "by Debbie Macomber",
+            "author": "Debbie Macomber",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Mira",
+            "isbns": [
+                {
+                    "isbn10": "0778328066",
+                    "isbn13": "9780778328063"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "108 STITCHES",
+            "description": "",
+            "contributor": "by Ron Darling with Daniel Paisner",
+            "author": "Ron Darling with Daniel Paisner",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "St. Martin's",
+            "isbns": [
+                {
+                    "isbn10": "125018438X",
+                    "isbn13": "9781250232649"
+                },
+                {
+                    "isbn10": "1250184398",
+                    "isbn13": "9781250184399"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "",
+                    "primary_isbn13": "9781250184382",
+                    "rank": 5,
+                    "list_name": "Sports",
+                    "display_name": "Sports and Fitness",
+                    "published_date": "2019-05-12",
+                    "bestsellers_date": "2019-04-27",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "10TH ANNIVERSARY",
+            "description": "Detective Lindsay Boxer’s long-awaited wedding celebration becomes a distant memory when the Women’s Murder Club is called in to find a missing baby.",
+            "contributor": "by James Patterson and Maxine Paetro",
+            "author": "James Patterson and Maxine Paetro",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Vision",
+            "isbns": [
+                {
+                    "isbn10": "0316036269",
+                    "isbn13": "9780316036269"
+                },
+                {
+                    "isbn10": "0316126942",
+                    "isbn13": "9780316126946"
+                },
+                {
+                    "isbn10": "0316185256",
+                    "isbn13": "9780316185257"
+                },
+                {
+                    "isbn10": "0446585165",
+                    "isbn13": "9780446585163"
+                },
+                {
+                    "isbn10": "1611135419",
+                    "isbn13": "9781611135411"
+                },
+                {
+                    "isbn10": "1455511463",
+                    "isbn13": "9781455511464"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "10th Grade: A Novel",
+            "description": null,
+            "contributor": null,
+            "author": "Joseph Weisberg",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "0375505849",
+                    "isbn13": "9780375505843"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "https://www.nytimes.com/2002/02/14/books/books-of-the-times-tales-of-teenage-angst-both-real-and-imagined.html",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2002/02/03/books/a-rec-room-of-one-s-own.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "11/22/63",
+            "description": "An English teacher travels back to 1958 by way of a time portal in a Maine diner. His assignment: Stop Lee Harvey Oswald.",
+            "contributor": "by Stephen King",
+            "author": "Stephen King",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Pocket Books",
+            "isbns": [
+                {
+                    "isbn10": "1451627289",
+                    "isbn13": "9781451627282"
+                },
+                {
+                    "isbn10": "1451627297",
+                    "isbn13": "9781451627299"
+                },
+                {
+                    "isbn10": "030795143X",
+                    "isbn13": "9780307951434"
+                },
+                {
+                    "isbn10": "1594135592",
+                    "isbn13": "9781594135590"
+                },
+                {
+                    "isbn10": "1501120603",
+                    "isbn13": "9781501120602"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1501120603",
+                    "primary_isbn13": "9781501120602",
+                    "rank": 13,
+                    "list_name": "Mass Market Paperback",
+                    "display_name": "Paperback Mass-Market Fiction",
+                    "published_date": "2016-05-08",
+                    "bestsellers_date": "2016-04-23",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1501120603",
+                    "primary_isbn13": "9781501120602",
+                    "rank": 15,
+                    "list_name": "Mass Market Paperback",
+                    "display_name": "Paperback Mass-Market Fiction",
+                    "published_date": "2016-05-01",
+                    "bestsellers_date": "2016-04-16",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1501120603",
+                    "primary_isbn13": "9781501120602",
+                    "rank": 14,
+                    "list_name": "Mass Market Paperback",
+                    "display_name": "Paperback Mass-Market Fiction",
+                    "published_date": "2016-04-24",
+                    "bestsellers_date": "2016-04-09",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1501120603",
+                    "primary_isbn13": "9781501120602",
+                    "rank": 12,
+                    "list_name": "Mass Market Paperback",
+                    "display_name": "Paperback Mass-Market Fiction",
+                    "published_date": "2016-04-17",
+                    "bestsellers_date": "2016-04-02",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1501120603",
+                    "primary_isbn13": "9781501120602",
+                    "rank": 7,
+                    "list_name": "Mass Market Paperback",
+                    "display_name": "Paperback Mass-Market Fiction",
+                    "published_date": "2016-04-10",
+                    "bestsellers_date": "2016-03-26",
+                    "weeks_on_list": 9,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1501120603",
+                    "primary_isbn13": "9781501120602",
+                    "rank": 6,
+                    "list_name": "Mass Market Paperback",
+                    "display_name": "Paperback Mass-Market Fiction",
+                    "published_date": "2016-04-03",
+                    "bestsellers_date": "2016-03-19",
+                    "weeks_on_list": 8,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1501120603",
+                    "primary_isbn13": "9781501120602",
+                    "rank": 7,
+                    "list_name": "Mass Market Paperback",
+                    "display_name": "Paperback Mass-Market Fiction",
+                    "published_date": "2016-03-27",
+                    "bestsellers_date": "2016-03-12",
+                    "weeks_on_list": 7,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "https://www.nytimes.com/2011/10/31/books/stephen-kings-11-23-63-review.html",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https://www.nytimes.com/2011/11/13/books/review/11-22-63-by-stephen-king-book-review.html",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "1105 YAKIMA STREET",
+            "description": "Bruce Peyton’s pregnant wife has left him, and he’s not the only one in town with problems; Book 11 of the Cedar Cove series.",
+            "contributor": "by Debbie Macomber",
+            "author": "Debbie Macomber",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Mira",
+            "isbns": [
+                {
+                    "isbn10": "0778312518",
+                    "isbn13": "9780778312512"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "112 Greene Street: The Early Years, 1970-1974",
+            "description": null,
+            "contributor": null,
+            "author": "Jessamyn Fiore",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "1934435414",
+                    "isbn13": "9781934435410"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "https://www.nytimes.com/2012/07/26/books/112-greene-street-the-early-years-70s-art-in-soho.html",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "113 MINUTES",
+            "description": "Molly Rourke knows who’s responsible for her son’s murder, and now she’s taking the law into her own hands.",
+            "contributor": "by James Patterson with Max DiLallo",
+            "author": "James Patterson with Max DiLallo",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "BookShots",
+            "isbns": [
+                {
+                    "isbn10": "0316317187",
+                    "isbn13": "9780316317184"
+                },
+                {
+                    "isbn10": "0316361526",
+                    "isbn13": "9780316361521"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "0316317187",
+                    "primary_isbn13": "9780316317184",
+                    "rank": 10,
+                    "list_name": "Mass Market Paperback",
+                    "display_name": "Paperback Mass-Market Fiction",
+                    "published_date": "2016-10-02",
+                    "bestsellers_date": "2016-09-17",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 6,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0316361526",
+                    "primary_isbn13": "9780316361521",
+                    "rank": 13,
+                    "list_name": "Combined Print and E-Book Fiction",
+                    "display_name": "Combined Print & E-Book Fiction",
+                    "published_date": "2016-09-25",
+                    "bestsellers_date": "2016-09-10",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0316317187",
+                    "primary_isbn13": "9780316317184",
+                    "rank": 6,
+                    "list_name": "Mass Market Paperback",
+                    "display_name": "Paperback Mass-Market Fiction",
+                    "published_date": "2016-09-25",
+                    "bestsellers_date": "2016-09-10",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0316361526",
+                    "primary_isbn13": "9780316361521",
+                    "rank": 10,
+                    "list_name": "E-Book Fiction",
+                    "display_name": "E-Book Fiction",
+                    "published_date": "2016-09-25",
+                    "bestsellers_date": "2016-09-10",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "1185 Park Avenue: A Memoir",
+            "description": null,
+            "contributor": null,
+            "author": "Anne Roiphe",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                    "isbn10": "0684857324",
+                    "isbn13": "9780684857329"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1999/06/06/books/uptown-girl.html",
+                    "article_chapter_link": null
+                }
+            ]
+        }
+    ]
+}
