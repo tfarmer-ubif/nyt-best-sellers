@@ -19,7 +19,7 @@ class ApiTest extends TestCase
     {
         parent::setUp();
 
-        Http::preventingStrayRequests();
+        Http::preventStrayRequests();
 
         Http::fake([
             self::API_URL . '?api-key=' . self::API_KEY => $this->getResponse('no_parameters.json'),
