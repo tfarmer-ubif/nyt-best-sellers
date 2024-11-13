@@ -26,8 +26,10 @@ class ApiTest extends TestCase
             self::API_URL . '?author=Martin&api-key=' . self::API_KEY   => $this->getResponse('with_author.json'),
             self::API_URL . '?offset=40&api-key=' . self::API_KEY => $this->getResponse('offset.json'),
             self::API_URL . '?offset=41&api-key=' . self::API_KEY => Http::response(null, 422),
-            self::API_URL . '?author=George RR Martin&title=A CLASH OF KINGS&api-key=' . self::API_KEY => $this->getResponse('author_and_title.json'),
+            self::API_URL . '?author=George%20RR%20Martin&title=A%20CLASH%20OF%20KINGS&api-key=' . self::API_KEY => $this->getResponse('author_and_title.json'),
             self::API_URL . '?title=King&offset=40&api-key=' . self::API_KEY => $this->getResponse('title_and_offset.json'),
+            self::API_URL . '?isbn=0744080045&api-key=' . self::API_KEY => $this->getResponse('with_isbn.json'),
+            self::API_URL . '?isbn=9780446579933%3B0061374229&api-key=' . self::API_KEY => $this->getResponse('with_multiple_isbn.json'),
         ]);
 
         config([
@@ -60,18 +62,22 @@ class ApiTest extends TestCase
         Http::assertSent(function (Request $request) use ($author) {
             return $request->url() === self::API_URL . '?author=' . $author . '&api-key=' . self::API_KEY;
         });
-
-
+        $response->assertJsonPath('results.0.author', 'George RR Martin');
+        $response->assertJsonPath('results.0.title', 'A CLASH OF KINGS');
+        $this->assertEquals(253, $response->json()['num_results']);
+        $this->assertEquals("OK", $response->json()['status']);
     }
 
     public function testWithSingleIsbn(): void
     {
-        $isbn = '9780061122415';
+        $isbn = '0744080045';
         $response = $this->getJson(self::ENDPOINT . '?isbn[0]=' . $isbn);
         $response->assertStatus(200);
         Http::assertSent(function (Request $request) use ($isbn) {
             return $request->url() === self::API_URL . '?isbn=' . $isbn . '&api-key=' . self::API_KEY;
         });
+        $response->assertJsonPath('results.0.author', 'B. Dylan Hollis');
+        $response->assertJsonPath('num_results', 1);
     }
 
     public function testWithInvalidIsbnLength(): void {
@@ -83,13 +89,11 @@ class ApiTest extends TestCase
 
     public function testWithMultipleIsbn(): void
     {
-        $isbns = ['1234567890', '1234567890123'];
-        $url = self::ENDPOINT . '?isbn[]=' . $isbns[0] . '&isbn[]=' . $isbns[1];
-        $response = $this->getJson($url);
-        $response->assertStatus(200);
-        Http::assertSent(function (Request $request) use ($isbns) {
-            return $request->url() === self::API_URL . '?isbn=' . implode(rawurlencode(';'), $isbns) . '&api-key=' . self::API_KEY;
-        });
+        $response = $this->getJson(self::ENDPOINT . '?isbn[]=9780446579933&isbn[]=0061374229&api-key=' . self::API_KEY );
+
+        $response->assertStatus(200)
+            ->assertJsonPath('num_results', 0)
+            ->assertJsonCount(0, 'results');
     }
 
     public function testOffset(): void
@@ -101,12 +105,10 @@ class ApiTest extends TestCase
             return $request->url() === self::API_URL . '?offset=' . $offset . '&api-key=' . self::API_KEY;
         });
         $json = $response->json();
-        $this->assertArrayHasKey('status', $json);
         $this->assertArrayHasKey('results', $json);
-        $this->assertArrayHasKey('num_results', $json);
-        $this->assertEquals(36464, $json['num_results']);
-        $response->assertJsonPath('results.0.author', 'Clint Emerson');
-        $response->assertJsonPath('results.0.title', '100 DEADLY SKILLS');
+        $response->assertJsonPath('status', 'OK')
+            ->assertStatus(200)
+            ->assertJsonPath('num_results', 36464);
     }
 
     public function testInvalidOffsetNotMultipleOf20(): void
@@ -132,6 +134,9 @@ class ApiTest extends TestCase
             return $request->url() === self::API_URL . '?author=' . $author . '&title=' . $title . '&api-key=' . self::API_KEY;
         });
         $response->assertStatus(200);
+        $response->assertJsonPath('results.0.author', 'George RR Martin');
+        $response->assertJsonPath('results.0.title', 'A CLASH OF KINGS');
+        $response->assertJsonPath('num_results', 1);
     }
 
     public function testWithTitleAndOffset(): void
@@ -144,6 +149,7 @@ class ApiTest extends TestCase
         });
         $response->assertStatus(200);
         $response->assertJsonPath('results.0.title', 'BAKING WITH DORIE');
+        $response->assertJsonPath('num_results', 742);
     }
 
     /**

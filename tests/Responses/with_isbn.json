@@ -1,0 +1,228 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+    "num_results": 1,
+    "results": [
+        {
+            "title": "BAKING YESTERYEAR",
+            "description": "",
+            "contributor": "by B. Dylan Hollis",
+            "author": "B. Dylan Hollis",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "DK",
+            "isbns": [
+                {
+                    "isbn10": "0744080045",
+                    "isbn13": "9780744080049"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 6,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2024-01-07",
+                    "bestsellers_date": "2023-12-23",
+                    "weeks_on_list": 15,
+                    "rank_last_week": 4,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 4,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-12-31",
+                    "bestsellers_date": "2023-12-16",
+                    "weeks_on_list": 14,
+                    "rank_last_week": 3,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 3,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-12-24",
+                    "bestsellers_date": "2023-12-09",
+                    "weeks_on_list": 13,
+                    "rank_last_week": 8,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 8,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-12-17",
+                    "bestsellers_date": "2023-12-02",
+                    "weeks_on_list": 12,
+                    "rank_last_week": 6,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 6,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-12-10",
+                    "bestsellers_date": "2023-11-25",
+                    "weeks_on_list": 11,
+                    "rank_last_week": 9,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 9,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-12-03",
+                    "bestsellers_date": "2023-11-18",
+                    "weeks_on_list": 10,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 8,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-10-15",
+                    "bestsellers_date": "2023-09-30",
+                    "weeks_on_list": 9,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 10,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-10-01",
+                    "bestsellers_date": "2023-09-16",
+                    "weeks_on_list": 8,
+                    "rank_last_week": 5,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 5,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-09-24",
+                    "bestsellers_date": "2023-09-09",
+                    "weeks_on_list": 7,
+                    "rank_last_week": 3,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 3,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-09-17",
+                    "bestsellers_date": "2023-09-02",
+                    "weeks_on_list": 6,
+                    "rank_last_week": 4,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 4,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-09-10",
+                    "bestsellers_date": "2023-08-26",
+                    "weeks_on_list": 5,
+                    "rank_last_week": 3,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 3,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-09-03",
+                    "bestsellers_date": "2023-08-19",
+                    "weeks_on_list": 4,
+                    "rank_last_week": 2,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 2,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-08-27",
+                    "bestsellers_date": "2023-08-12",
+                    "weeks_on_list": 3,
+                    "rank_last_week": 2,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 2,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-08-20",
+                    "bestsellers_date": "2023-08-05",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 1,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0744080045",
+                    "primary_isbn13": "9780744080049",
+                    "rank": 1,
+                    "list_name": "Advice How-To and Miscellaneous",
+                    "display_name": "Advice, How-To & Miscellaneous",
+                    "published_date": "2023-08-13",
+                    "bestsellers_date": "2023-07-29",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        }
+    ]
+}

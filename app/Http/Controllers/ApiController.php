@@ -16,10 +16,12 @@ class ApiController extends Controller
     public function bestSellers(BestSellersRequest $request): JsonResponse {
         $filters = $request->validated();
 
+
         //format the ISBNs as a semicolon separated string
         if (isset($filters['isbn'])) {
             $filters['isbn'] = implode(';', $filters['isbn']);
         }
+//        dd($filters['isbn']);
 
         $response = Http::acceptJson()
             ->get(config('env.bestSellers.apiUrl'), [
